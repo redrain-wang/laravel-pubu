@@ -6,6 +6,6 @@
  */
 
 return [
-    'pubu_url' => '',
-    'channel_name' => '',
+    'pubu_url' => '11111',
+    'channel_name' => '#bug',
 ];

@@ -15,6 +15,9 @@
     "autoload": {
         "psr-4": {
             "Redrain\\Pubu\\": "src/"
-        }
+        },
+        "files": [
+            "src/helpers.php"
+        ]
     }
 }
