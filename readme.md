@@ -1,5 +1,6 @@
     
-#composer安装        
+#composer安装
+        
     composer require redrain/laravel-pubu
     
 #添加ServiceProvider
@@ -7,6 +8,7 @@
     Redrain\Pubu\PubuServiceProvider::class,
     
 #添加别名
+
     'Pubu' => Redrain\Pubu\Facades\Pubu::class
         
 #使用
